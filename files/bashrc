@@ -1,0 +1,7 @@
+export PATH="$PATH:$HOME/.env/bin"
+export LD_LIBRARY_PATH="$LD_LIBRARY_PATH:$HOME/.env/lib"
+export INCLUDE_PATH="$INCLUDE_PATH:$HOME/.env/include"
+export EDITOR="$EDITOR:$HOME/.env/bin/vim.basic"
+export VISUAL="$VISUAL:$HOME/.env/bin/vim.basic"
+
+alias ll='ls -all'
