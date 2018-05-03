@@ -1,0 +1,8 @@
+lll
+ll
+htop
+ar vx terminator_0.95-1_all.deb
+tar xvfz data.tar.gz
+cp ./usr/bin/terminator ~/.env/bin/
+terminator
+ar vx terminator_1.90+bzr-1705-1.debian.tar.xz
